@@ -1,0 +1,1 @@
+gold-1.jpg, gold-2.jpg, gold-3.jpg, puis silver-1.jpg, cobalt-1.jpg, copper-1.jpg, lithium-1.jpg, bauxite-1.jpg, iron-1.jpg
